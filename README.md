@@ -1,0 +1,1 @@
+# how_to_diable_pytest_in_pycharm
